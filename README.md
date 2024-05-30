@@ -1,6 +1,6 @@
-Olá 👋
+<h1>Olá 👋, seja muito bem-vindo(a) ao meu perfil 😃</h1>
 
-Meu nome é Lucas Galdino, e estou estudando para me tornar um Programador Full-Stack  💻.
+<h2>Meu nome é Lucas Galdino, sou apaixonado em codificar e procuro ser melhor a cada dia!</h2>
 
 Atualmente já tenho um bom conhecimento dessas tecnologias:
 <br>
@@ -14,8 +14,6 @@ Atualmente já tenho um bom conhecimento dessas tecnologias:
 <img src='https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB' height='30' alt='react'/>
 <img src='https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white' height='30' alt='styled-components'/>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfgaldinos&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfgaldinos&layout=compact&theme=dracula&border_radius=0)
 
-
-
-
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lucasfgaldinos&show_icons=true&theme=dracula&border_radius=0)

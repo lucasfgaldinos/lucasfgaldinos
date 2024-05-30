@@ -1,9 +1,8 @@
 <h1>Olá 👋, seja muito bem-vindo(a) ao meu perfil 😃</h1>
 
-<h2>Meu nome é Lucas Galdino, sou apaixonado em codificar e procuro ser melhor a cada dia!</h2>
+<h2>Meu nome é Lucas Galdino e sou apaixonado em codificar.</h2>
 
-Atualmente já tenho um bom conhecimento dessas tecnologias:
-<br>
+<h3>Tecnologias</h3>
 <br>
 <img src='https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white' height='30' alt='html'/>
 <img src='https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white' height='30' alt='css'/>
